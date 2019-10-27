@@ -97,6 +97,7 @@ laptop.
 
 ## Other Awesome Lists
 
+* [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 * [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [sindresorhus/awesome][awesome-link]
