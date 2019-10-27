@@ -48,6 +48,16 @@ laptop.
 ## Development
 
 
+- [**Textastic**](https://www.textasticapp.com) – Code Editor, (S)FTP client, SSH terminal
+
+  :white_check_mark: Document-Based-App
+  :white_check_mark: Open-In-Place
+  :white_check_mark: File Bookmarks
+
+  [App Store](https://apps.apple.com/us/app/id1049254261?mt=8) /
+  [Twitter](https://twitter.com/Textastic)
+  
+
 - [**Working Copy**](https://workingcopyapp.com) – A powerful git client
 
   :white_check_mark: File Bookmarks
