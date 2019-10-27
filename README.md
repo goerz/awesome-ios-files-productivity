@@ -107,7 +107,7 @@ laptop.
 ## Contribute
 
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 
 ## Credits
@@ -122,8 +122,8 @@ This project was initially created with [Cookiecutter][cookiecutter] and the cus
 
 [![CC0][CC0-badge]][CC0-link]
 
-To the extent possible under law, Michael Goerz has waived all copyright
-and related or neighboring rights to this work. See [LICENSE](LICENSE).
+To the extent possible under law, all copyright and related or neighboring
+rights to this work have been waived. See [LICENSE](LICENSE).
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-link]: https://github.com/sindresorhus/awesome
