@@ -1,6 +1,6 @@
 # Maintainer
 
-Michael Goerz <mail@michaelgoerz.net>
+[Michael Goerz](http://michaelgoerz.net)
 
 # Contributors
 
