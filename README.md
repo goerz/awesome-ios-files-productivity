@@ -132,4 +132,4 @@ rights to this work have been waived. See [LICENSE](LICENSE).
 [CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 [CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
 [cookiecutter]: https://github.com/cookiecutter/cookiecutter
-[cookiecutter-awesome]: https://github.com/moodule/cookiecutter-git
+[cookiecutter-awesome]: https://github.com/pawamoy/cookiecutter-awesome
