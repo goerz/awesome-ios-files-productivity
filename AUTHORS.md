@@ -4,4 +4,4 @@
 
 # Contributors
 
-* none yet (be the first!)
+[Adrian Labbé](https://labbe.me)
