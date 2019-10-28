@@ -22,9 +22,9 @@ laptop.
 - [Glossary of Terms](#glossary-of-terms)
 - The Apps
     - [Development](#development)
-    - [Writing](#writing)
-    - [Terminal](#terminal)
     - [Science](#science)
+    - [Terminal](#terminal)
+    - [Writing](#writing)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribute](#contribute)
 - [Credits](#credits)
@@ -76,6 +76,34 @@ laptop.
    [App Store](https://apps.apple.com/us/app/working-copy/id896694807?ign-mpt=uo%3D6)
 
 
+## Science
+
+
+- [**Carnets**](https://holzschu.github.io/Carnets_Jupyter/) – Standalone Jupyter notebooks
+
+  :white_check_mark: Document-Based-App
+  :white_check_mark: Open-In-Place
+
+  [App Store](https://apps.apple.com/us/app/carnets/id1450994949) /
+  [Github](https://github.com/holzschu/Carnets) /
+  [Testflight](https://testflight.apple.com/join/yevwlUs1) /
+  [Twitter](https://twitter.com/carnets_jupyter)
+
+
+## Terminal
+
+
+- [**a-Shell**](https://holzschu.github.io/a-Shell_iOS/) – Interactive shell vim, Python, and TeX
+
+  :white_check_mark: Open-In-Place
+  :white_check_mark: File Bookmarks
+
+  [App Store](https://apps.apple.com/fr/app/a-shell/id1473805438) /
+  [Github](https://github.com/holzschu/a-Shell) /
+  [Testflight](https://testflight.apple.com/join/WUdKe3f4) /
+  [Twitter](https://twitter.com/a_Shell_iOS)
+
+
 ## Writing
 
 
@@ -94,34 +122,6 @@ laptop.
 
   [App Store](https://apps.apple.com/app/pretext/id1347707000) /
   [Twitter](https://twitter.com/pretext_app)
-
-
-## Terminal
-
-
-- [**a-Shell**](https://holzschu.github.io/a-Shell_iOS/) – Interactive shell vim, Python, and TeX
-
-  :white_check_mark: Open-In-Place
-  :white_check_mark: File Bookmarks
-
-  [App Store](https://apps.apple.com/fr/app/a-shell/id1473805438) /
-  [Github](https://github.com/holzschu/a-Shell) /
-  [Testflight](https://testflight.apple.com/join/WUdKe3f4) /
-  [Twitter](https://twitter.com/a_Shell_iOS)
-
-
-## Science
-
-
-- [**Carnets**](https://holzschu.github.io/Carnets_Jupyter/) – Standalone Jupyter notebooks
-
-  :white_check_mark: Document-Based-App
-  :white_check_mark: Open-In-Place
-
-  [App Store](https://apps.apple.com/us/app/carnets/id1450994949) /
-  [Github](https://github.com/holzschu/Carnets) /
-  [Testflight](https://testflight.apple.com/join/yevwlUs1) /
-  [Twitter](https://twitter.com/carnets_jupyter)
 
 
 ## Other Awesome Lists
