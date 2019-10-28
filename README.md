@@ -103,6 +103,21 @@ laptop.
   [Twitter](https://twitter.com/carnets_jupyter)
 
 
+- [**Juno**](https://juno.sh) – Jupyter for iOS
+
+  :white_check_mark: Document-Based-App
+  :white_check_mark: Open-In-Place
+
+  [App Store](https://apps.apple.com/app/id1462586500) /
+  [Twitter](https://twitter.com/junoapps)
+  
+  
+- [**Juno Connect**](https://juno.sh/junoconnect/) – Jupyter client for iOS
+
+  [App Store](https://apps.apple.com/app/id1315744137) /
+  [Twitter](https://twitter.com/junoapps)
+
+
 ## Terminal
 
 
