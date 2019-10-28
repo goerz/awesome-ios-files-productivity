@@ -22,6 +22,7 @@ laptop.
 - [Glossary of Terms](#glossary-of-terms)
 - The Apps
     - [Development](#development)
+    - [Reading](#reading)
     - [Science](#science)
     - [Terminal](#terminal)
     - [Writing](#writing)
@@ -74,6 +75,18 @@ laptop.
   :white_check_mark: File Provider Extension
 
    [App Store](https://apps.apple.com/us/app/working-copy/id896694807?ign-mpt=uo%3D6)
+
+
+## Reading
+
+
+- [**PDF Viewer**](https://pdfviewer.io) – Read, Review, and Annotate PDFs
+
+  :white_check_mark: Document-Based-App
+  :white_check_mark: Open-In-Place
+
+  [App Store](https://apps.apple.com/us/app/pdf-viewer-annotation-expert/id1120099014) /
+  [Twitter](https://twitter.com/pdfviewerapp)
 
 
 ## Science
