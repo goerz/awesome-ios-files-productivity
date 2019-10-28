@@ -34,7 +34,7 @@ Before you submit a pull request, check that it meets these guidelines:
 4.  Test the links:
 
         gem install awesome_bot
-        awesome_bot README.md
+        awesome_bot --allow-dupe README.md
 
     Note: When you make a pull request, [Travis][] will check all links automatically.
 

@@ -51,8 +51,8 @@ laptop.
 - [**Pyto**](https://pyto.app) – Python IDE
 
   :white_check_mark: Document-Based-App
-  :white_check_mark: File Bookmarks
   :white_check_mark: Open-In-Place
+  :white_check_mark: File Bookmarks
 
    [App Store](https://apps.apple.com/us/app/pyto-python-3-7/id1436650069?ign-mpt=uo%3D4) /
    [Github](https://github.com/ColdGrub1384/Pyto)
@@ -85,6 +85,15 @@ laptop.
   :white_check_mark: File Bookmarks
 
   [App Store](https://apps.apple.com/app/id775737172?mt=12)
+
+
+- [**Pretext**](https://twitter.com/pretext_app) – Markdown & Plain Text Editor
+
+  :white_check_mark: Document-Based-App
+  :white_check_mark: Open-In-Place
+
+  [App Store](https://apps.apple.com/app/pretext/id1347707000) /
+  [Twitter](https://twitter.com/pretext_app)
 
 
 ## Terminal
