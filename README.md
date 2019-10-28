@@ -112,7 +112,7 @@ laptop.
   [Twitter](https://twitter.com/junoapps)
   
   
-- [**Juno Connect**](https://juno.sh/junoconnect) – Jupyter client for iOS
+- [**Juno Connect**](https://juno.sh/junoconnect/) – Jupyter client for iOS
 
   [App Store](https://apps.apple.com/app/id1315744137) /
   [Twitter](https://twitter.com/junoapps)
