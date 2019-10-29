@@ -110,7 +110,7 @@ laptop.
 
   [App Store](https://apps.apple.com/app/id1462586500) /
   [Twitter](https://twitter.com/junoapps)
-  
+
 
 ## Terminal
 
@@ -124,6 +124,15 @@ laptop.
   [Github](https://github.com/holzschu/a-Shell) /
   [Testflight](https://testflight.apple.com/join/WUdKe3f4) /
   [Twitter](https://twitter.com/a_Shell_iOS)
+
+
+- [**Blink**](http://www.blink.sh) – Mosh and SSH Terminal
+
+  :white_check_mark: File Bookmarks
+
+  [App Store](https://apps.apple.com/app/id1156707581) /
+  [Github](https://github.com/blinksh/blink/) /
+  [Twitter](https://twitter.com/BlinkShell)
 
 
 ## Writing
