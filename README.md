@@ -21,6 +21,7 @@ laptop.
 
 - [Glossary of Terms](#glossary-of-terms)
 - The Apps
+    - [Cloud Storage](#cloud-storage)
     - [Development](#development)
     - [Reading](#reading)
     - [Science](#science)
@@ -44,6 +45,15 @@ laptop.
 
 **File Bookmarks**
 : Apps that support "file bookmarks" have the ability to open entire folders from anywhere in Files. These are sometimes called "external locations", "synced directories", or "bookmarks".
+
+## Cloud Storage
+
+- [**Secure ShellFish**](https://secureshellfish.app/) – SSH and SFTP support in the iOS Files app
+
+  :white_check_mark: File Provider Extension
+
+  [App Store](https://apps.apple.com/us/app/secure-shellfish/id1336634154?ls=1) /
+  [Twitter](https://twitter.com/shellfishapp?lang=en)
 
 
 ## Development
