@@ -164,7 +164,7 @@ laptop.
   [App Store](https://apps.apple.com/app/pretext/id1347707000) /
   [Twitter](https://twitter.com/pretext_app)
 
-- [**Texpad**](https://twitter.com/texpad) – LaTeX, Plain TeX, Markdown & Plain Text editorf
+- [**Texpad**](https://twitter.com/texpad) – LaTeX, Plain TeX, Markdown & Plain Text editor
 
   :white_check_mark: Document-Based-App
   :white_check_mark: Open-In-Place
