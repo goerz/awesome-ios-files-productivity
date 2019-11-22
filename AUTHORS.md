@@ -7,3 +7,4 @@
 * [Alexander Blach](https://twitter.com/Lextar)
 * [Adrian Labbé](https://labbe.me)
 * [Alex Staravoitau](https://twitter.com/alexstaravoitau)
+* [Duncan Steele](https://twitter.com/texpad)
