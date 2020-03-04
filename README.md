@@ -163,6 +163,16 @@ laptop.
 
   [App Store](https://apps.apple.com/app/pretext/id1347707000) /
   [Twitter](https://twitter.com/pretext_app)
+  
+- [**Taskade**](https://taskade.com) – Real-time organization and collaboration tool for outlining tasks and notes.
+
+  :white_check_mark: Document-Based-App
+  :white_check_mark: Open-In-Place
+  :white_check_mark: File Bookmarks
+
+  [App Store](https://itunes.apple.com/us/app/taskade-checklist-outliner/id1264713923) /
+  [Twitter](https://twitter.com/taskade)
+
 
 - [**Texpad**](https://twitter.com/texpad) – LaTeX, Plain TeX, Markdown & Plain Text editor
 
